@@ -20,9 +20,11 @@ Ask a Question: Type your query in the input box and either press "Enter" or cli
 View Responses: The response will be displayed below the input box, separated into normal text and code sections.
 
 # Quick Actions:
-Regenerate: Click on the "Regenerate" button to generate a new response for the same query.
-Delete: Remove any response by clicking the "Delete" button.
-Copy: Use the "Copy" button next to code sections to copy the code to your clipboard.
+![image](https://github.com/user-attachments/assets/bd9cc952-9a7a-4323-9855-00e5b2ad5a27)
+
+1. Regenerate: Click on the "Regenerate" button to generate a new response for the same query.
+2. Delete: Remove any response by clicking the "Delete" button.
+3. Copy: Use the "Copy" button next to code sections to copy the code to your clipboard.
 
 # Testing the Context Analysis Feature
 To test the context-aware analysis:
