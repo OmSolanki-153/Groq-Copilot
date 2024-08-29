@@ -1,4 +1,4 @@
-#DEV WIZARD: Your VS Code Copilot
+# DEV WIZARD: Your VS Code Copilot
 ![image](https://github.com/user-attachments/assets/256a92d0-0c0d-4f93-a179-2566dfe4e736)
 
 
