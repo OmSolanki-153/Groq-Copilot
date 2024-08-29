@@ -6,12 +6,11 @@
 DEV WIZARD is a VS Code extension that acts as an intelligent copilot for developers, offering code completions, suggestions, and contextual insights. It leverages multiple language models to understand the user's queries and provides relevant responses. The copilot can analyze code surrounding the cursor (previous and next 5 lines) and can be tailored using different models like llama3-8b-8192, gemma2-9b-it, and mixtral-8x7b-32768.
 
 # Key Features
-Multi-Model Support: Choose from multiple AI models for different tasks (llama3-8b-8192, gemma2-9b-it, and mixtral-8x7b-32768).
+1. Multi-Model Support: Choose from multiple AI models for different tasks (llama3-8b-8192, gemma2-9b-it, and mixtral-8x7b-32768).
 Context-Aware Responses: Analyzes the surrounding lines of code (5 lines before and after the cursor) to provide relevant suggestions.
-Enhanced UI: Visually appealing and user-friendly interface, with markdown support for better text and code rendering.
-Quick Actions: Easily regenerate or delete responses directly from the UI.
-Copy to Clipboard: Copy code blocks with a single click for efficient workflow integration.
-Keyboard Shortcuts: Submit queries directly by pressing "Enter" for faster interactions.
+2. Enhanced UI: Visually appealing and user-friendly interface, with markdown support for better text and code rendering.
+3. Quick Actions: Easily regenerate or delete responses directly from the UI.
+4. Copy to Clipboard: Copy code blocks with a single click for efficient workflow integration.
 
 # Usage
 Open the Sidebar: Activate the copilot by clicking on the "JARVIS" icon located in the sidebar or pressing Shift + C.
